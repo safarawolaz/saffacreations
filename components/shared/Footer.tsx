@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 const Footer = () => {
   return (
-    <section className='min-h-[50vh] bg-[#1a1a1a] w-full py-20 lg:py-32 px-4 lg:px-10 grid grid-cols-4 gap-10'>
+    <section className='min-h-[50vh] bg-[#1a1a1a] w-full py-20 lg:py-32 px-4 lg:px-10 grid grid-cols-l sm:grid-cols-2 lg:grid-cols-4 gap-10'>
       <div className="">
         <Link href='/' className='text-[#cfcece] font-medium text-3xl tracking-wider'><span className='text-[#c59402]'>Saffa</span> Creations</Link>
         <p className='text-muted-foreground text-base leading-[1.7] mt-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae eveniet libero harum debitis iure porro!</p>
