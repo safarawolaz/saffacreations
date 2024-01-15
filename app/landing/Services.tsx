@@ -5,7 +5,7 @@ import React from 'react'
 
 const Services = () => {
   return (
-    <section className='w-full min-h-screen flex flex-col items-center justify-center bg-serviceBg1 bg-cover bg-center px-4 lg:px-10 py-20 lg:py-32'>
+    <section className='w-full min-h-screen flex flex-col items-center justify-center  bg-[#171717] px-4 lg:px-10 py-20 lg:py-32'>
         <div className="text-center">
             <h3 className='text-4xl xl:text-5xl text-[#cfcece] font-regular -tracking-tighter'>
                 Services We Are Offering To
