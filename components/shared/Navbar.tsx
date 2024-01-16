@@ -62,7 +62,7 @@ const Navbar = () => {
                 <InstagramIcon className='w-4 h-4 text-white'/>
             </div>
         </div>
-        <div className="flex items-center justify-between px-4 lg:px-10 bg-[#111111]">
+        <div className="flex items-center justify-between px-4 lg:px-10 bg-[#111111] p-12 lg:py-0">
             <div className="flex items-center  gap-12 ">
                 <div className="">
                 <Link href='/' className='text-[#cfcece] font-medium text-3xl tracking-wider'><span className='text-[#c59402]'>Saffa</span> Creations</Link>
@@ -70,7 +70,7 @@ const Navbar = () => {
                         <div className="hidden lg:flex gap-5">
                                 {
                                     links.map(link => (
-                            <div className={cn("bg-[#111111] py-12 border-b-2 border-transparent",
+                            <div className={cn("bg-[#111111] py-0 lg:py-12 border-b-2 border-transparent",
                                 {
                                     "border-b-2 border-[#fecb32]" : pathname === link.url
                                 }

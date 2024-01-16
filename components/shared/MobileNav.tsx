@@ -55,7 +55,7 @@ const MobileNav = () => {
                 <SheetDescription>
                     <div className="text-center">
                         <SheetClose asChild>
-                            <Link href='/' className='text-4xl font-bold mt-6'>webency</Link>
+                        <Link href='/' className='text-black font-medium text-3xl tracking-wider'><span className='text-[#c59402]'>Saffa</span> Creations</Link>
                         </SheetClose>
                     </div>
                     <div className="flex flex-col space-y-4 items-start w-full text-lg mt-10 font-semibold">
