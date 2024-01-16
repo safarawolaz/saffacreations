@@ -8,10 +8,7 @@ const Services = () => {
     <section className='w-full min-h-screen flex flex-col items-center justify-center  bg-[#171717] px-4 lg:px-10 py-20 lg:py-32'>
         <div className="text-center">
             <h3 className='text-4xl xl:text-5xl text-[#cfcece] font-regular -tracking-tighter'>
-                Services We Are Offering To
-            </h3>
-            <h3 className='text-4xl xl:text-5xl text-[#cfcece] font-regular -tracking-tighter'>
-                Our Customers
+                Services We Are Offering 
             </h3>
         </div>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-12">
