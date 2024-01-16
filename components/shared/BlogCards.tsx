@@ -25,7 +25,7 @@ const blogs = [
     imgUrl: "/blogImg3.jpg",
     author: "Admin",
     comments: "3 Comments",
-    heading: "Is AI going to take away your job away"
+    heading: "Is AI going to take away your job away any time soon"
   },
 ]
 
