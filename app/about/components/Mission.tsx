@@ -3,7 +3,7 @@ import { CheckIcon, Users2Icon } from 'lucide-react'
 import Image from 'next/image'
 import React from 'react'
 
-const About = () => {
+const Mission = () => {
   return (
     <section className='w-full min-h-screen bg-[#111111] lg:flex items-center px-4 lg:px-10 gap-16 py-20 lg:py-32'>
         <div className="relative basis-1/2 w-full rounded-2xl overflow-hidden">
@@ -53,4 +53,4 @@ const About = () => {
   )
 }
 
-export default About
+export default Mission

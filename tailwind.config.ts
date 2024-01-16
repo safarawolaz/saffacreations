@@ -20,7 +20,8 @@ module.exports = {
         hero: 'url(/heroAgenc.jpg)',
         serviceBg1: 'url(/servicesBg.jpg)',
         serviceBg2: 'url(/servicesBg.jpg)',
-        faq: 'url(/faqBg.jpg)'
+        faq: 'url(/faqBg.jpg)',
+        herosm: 'url(/heroSmImg.jpg)'
       },
       fontFamily: {
         dmSans: ['var(--font-dmSans)', 'sans-serif'],
