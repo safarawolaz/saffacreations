@@ -20,7 +20,7 @@ const Projects = () => {
                   </div>
                 </div>
                 <div className="bg-black rounded-2xl overflow-hidden relative">
-                  <Image src='/projects2.jpg' width={2000} height={3000}  alt='project 1 image'  className='hover:scale-110 transition-all duration-300 cursor-pointer z-10 absolute' objectFit='cover'/>
+                  <Image src='/mxprinters.png' width={860} height={641}  alt='project 1 image'  className='hover:scale-110 transition-all duration-300 cursor-pointer z-10 absolute' objectFit='cover'/>
                   <div className="bg-[#c59402]  p-6 rounded-xl absolute z-20 bottom-2 left-2 cursor-pointer shadow-xl hover:-translate-y-2 transition-all duration-300">
                     <h3 className='text-lg font-bold tracking=widest text-white'>
                       WEB DESIGN

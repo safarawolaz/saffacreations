@@ -12,7 +12,7 @@ const syne = Syne({subsets: ['latin'], variable: '--font-syne'})
 
 
 export const metadata: Metadata = {
-  title: 'webency agency',
+  title: 'Saffa Creations',
   description: 'web design, web development, seo, graphic design',
 }
 
