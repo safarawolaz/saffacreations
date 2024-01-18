@@ -1,7 +1,7 @@
 'use client'
 
 import { cn } from '@/lib/utils'
-import { AlignRight, DribbbleIcon, FacebookIcon, InstagramIcon, MailCheck, MapPinIcon, SearchCheckIcon, TwitterIcon } from 'lucide-react'
+import { AlignRight, DribbbleIcon, FacebookIcon, InstagramIcon, MailCheck, MapPinIcon, SearchCheckIcon, XIcon } from 'lucide-react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { Button } from '../ui/button'
@@ -43,11 +43,11 @@ const Navbar = () => {
             <div className="flex gap-8">
                 <div className="flex items-center">
                     <MailCheck className='w-4 h-4 text-[#c59402] mr-2' />
-                    <p className='text-gray-300 text-sm'>needhelp@company.com</p>
+                    <p className='text-gray-300 text-sm'>admin@saffa.co.za</p>
                 </div>
                 <div className="flex items-center">
                     <MapPinIcon className='w-4 h-4 text-[#c59402] mr-2' />
-                    <p className='text-gray-300 text-sm'>88 Brooklyn Golden Street, New York</p>
+                    <p className='text-gray-300 text-sm'>1466 Chris Hani St Kanyamazane Mbombela</p>
                 </div>
             </div>
             <div className="flex items-center gap-4">
@@ -56,7 +56,7 @@ const Navbar = () => {
                 <p className='text-white text-sm'>Faqs</p>
                 <p className='text-white text-sm'>/</p>
                 <p className='text-white text-sm'>Contact</p>
-                <TwitterIcon className='w-4 h-4 text-white'/>
+                <XIcon className='w-4 h-4 text-white'/>
                 <FacebookIcon className='w-4 h-4 text-white'/>
                 <DribbbleIcon className='w-4 h-4 text-white'/>
                 <InstagramIcon className='w-4 h-4 text-white'/>
