@@ -25,7 +25,7 @@ const OurServices = () => {
                         Digital Marketing
                     </div>
                     <div className="text-base text-muted-foreground leading-[1.9] mt-4">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, quas. Voluptates aperiam cumque reiciendis fugit.
+                    From social media management to targeted advertising, we leverage the latest trends and data-driven insights to ensure your business stands out in the digital landscape.
                     </div>
                     <div className="">
                         <Button className='text-muted-foreground text-lg flex items-center justify-between mt-8 px-3 hover:bg-[#161616] hover:text-muted-foreground rounded-full' size='lg' variant='ghost'>
@@ -52,7 +52,7 @@ const OurServices = () => {
                         Website Design
                     </div>
                     <div className="text-base text-muted-foreground leading-[1.9] mt-4">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, quas. Voluptates aperiam cumque reiciendis fugit.
+                    Our team of skilled designers combines aesthetics with user-centric functionality to create visually stunning and highly responsive websites.
                     </div>
                     <div className="">
                         <Button className='text-muted-foreground text-lg flex items-center justify-between mt-8 px-3 hover:bg-[#161616] hover:text-muted-foreground rounded-full' size='lg' variant='ghost'>
@@ -78,7 +78,7 @@ const OurServices = () => {
                         Web Applications
                     </div>
                     <div className="text-base text-muted-foreground leading-[1.9] mt-4">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, quas. Voluptates aperiam cumque reiciendis fugit.
+                    Bespoke web application development. Whether you need a dynamic e-commerce platform, a robust content management system, or a custom solution.
                     </div>
                     <div className="">
                         <Button className='text-muted-foreground text-lg flex items-center justify-between mt-8 px-3 hover:bg-[#161616] hover:text-muted-foreground rounded-full' size='lg' variant='ghost'>
@@ -104,7 +104,7 @@ const OurServices = () => {
                         UI/UX Design
                     </div>
                     <div className="text-base text-muted-foreground leading-[1.9] mt-4">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, quas. Voluptates aperiam cumque reiciendis fugit.
+                    Intuitive and visually appealing user interfaces (UI) coupled with an outstanding user experience (UX). Our UI/UX designers create designs that look great, enhancing user satisfaction and engagement.
                     </div>
                     <div className="">
                         <Button className='text-muted-foreground text-lg flex items-center justify-between mt-8 px-3 hover:bg-[#161616] hover:text-muted-foreground rounded-full' size='lg' variant='ghost'>
@@ -130,7 +130,7 @@ const OurServices = () => {
                         Copywriting
                     </div>
                     <div className="text-base text-muted-foreground leading-[1.9] mt-4">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, quas. Voluptates aperiam cumque reiciendis fugit.
+                    Our expert copywriters craft compelling content that speaks directly to your target audience. Whether it's website copy, blog posts, or marketing collateral to convey your brand's unique story.
                     </div>
                     <div className="">
                         <Button className='text-muted-foreground text-lg flex items-center justify-between mt-8 px-3 hover:bg-[#161616] hover:text-muted-foreground rounded-full' size='lg' variant='ghost'>
@@ -156,7 +156,7 @@ const OurServices = () => {
                         SEO Marketing
                     </div>
                     <div className="text-base text-muted-foreground leading-[1.9] mt-4">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, quas. Voluptates aperiam cumque reiciendis fugit.
+                    Elevate your website's ranking on search engines with our comprehensive SEO services. We employ white-hat techniques and industry best practices to optimize your site, ensuring it ranks higher in search results.
                     </div>
                     <div className="">
                         <Button className='text-muted-foreground text-lg flex items-center justify-between mt-8 px-3 hover:bg-[#161616] hover:text-muted-foreground rounded-full' size='lg' variant='ghost'>

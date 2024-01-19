@@ -20,19 +20,19 @@ const About = () => {
         </div>
         <div className="basis-1/2 mt-8 lg:mt-0">
             <h3 className='text-4xl xl:text-5xl text-[#cfcece] font-regular -tracking-tighter'>We provide the best web services</h3>
-            <p className='text-muted-foreground mt-10 text-base leading-[1.7]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta est officia et sint accusamus laborum corporis, laboriosam minus labore eum temporibus iste deleniti earum porro.</p>
+            <p className='text-muted-foreground mt-10 text-base leading-[1.7]'>Welcome to Saffa Creations, a dynamic team of creative minds and dedicated to shaping digital experiences that resonate and inspire. Founded on the principles of innovation, collaboration, and client success.</p>
             <div className="mt-8 bg-[#232323] p-6 border-l-4 border-[#c59402]">
                 <div className="flex items-center">
                     <CheckIcon className='w-5 h-5 text-[#c59402] mr-2' />
-                    <p className='text-base text-muted-foreground font-semibold'>Most easy premium web design process</p>
+                    <p className='text-base text-muted-foreground font-semibold'>Innovation: We use latest technologies and design trends</p>
                 </div>
                 <div className="flex items-center mt-2">
                     <CheckIcon className='w-5 h-5 text-[#c59402] mr-2' />
-                    <p className='text-base text-muted-foreground font-semibold'>Research & development before starting</p>
+                    <p className='text-base text-muted-foreground font-semibold'>Work closely with our clients to understand their unique needs</p>
                 </div>
                 <div className="flex items-center mt-2">
                     <CheckIcon className='w-5 h-5 text-[#c59402] mr-2' />
-                    <p className='text-base text-muted-foreground font-semibold'>Creating quality design ideas</p>
+                    <p className='text-base text-muted-foreground font-semibold'>Focus on tangible results ie conversion, user engagement.</p>
                 </div>
             </div>
             <div className="mt-12 flex gap-10 items-center">

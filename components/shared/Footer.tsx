@@ -1,4 +1,4 @@
-import { CheckCircle2, DribbbleIcon, FacebookIcon, InstagramIcon, SendIcon, TwitterIcon } from 'lucide-react'
+import { CheckCircle2, DribbbleIcon, FacebookIcon, InstagramIcon, SendIcon, XIcon } from 'lucide-react'
 import Link from 'next/link'
 
 
@@ -7,13 +7,13 @@ const Footer = () => {
     <section className='min-h-[50vh] bg-[#1a1a1a] w-full py-20 lg:py-32 px-4 lg:px-10 grid grid-cols-l sm:grid-cols-2 lg:grid-cols-4 gap-10'>
       <div className="">
         <Link href='/' className='text-[#cfcece] font-medium text-3xl tracking-wider'><span className='text-[#c59402]'>Saffa</span> Creations</Link>
-        <p className='text-muted-foreground text-base leading-[1.7] mt-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae eveniet libero harum debitis iure porro!</p>
+        <p className='text-muted-foreground text-base leading-[1.7] mt-6'>We believe in the transformative power of design and technology, and we're passionate about translating that belief into results for our clients.</p>
         <div className="mt-6 py-6 flex items-center gap-3 border-t border-[#2e2e2e]">
           <div className="w-12 h-12 bg-[#232323] flex items-center justify-center rounded-full">
             <FacebookIcon className='w-6 h-6 text-muted-foreground' />
           </div>
           <div className="w-12 h-12 bg-[#232323] flex items-center justify-center rounded-full">
-            <TwitterIcon className='w-6 h-6 text-muted-foreground' />
+            <XIcon className='w-6 h-6 text-muted-foreground' />
           </div>
           <div className="w-12 h-12 bg-[#232323] flex items-center justify-center rounded-full">
             <InstagramIcon className='w-6 h-6 text-muted-foreground' />
@@ -33,7 +33,7 @@ const Footer = () => {
       </div>
       <div className="">
         <h3 className='text-base text-[#cfcece] font-semibold uppercase tracking-widest mb-8'>explore</h3>
-        <p className='text-base text-muted-foreground capitalize mt-4'>66 Brooklyn Street New York. <br /> USA</p>
+        <p className='text-base text-muted-foreground capitalize mt-4'>1466 Chris Hani Street, Kanyamazane,  <br /> Mbombela</p>
         <p className='text-base text-[#cfcece] font-semibold tracking-widest mt-12'>(+27) 65 923 6199</p>
         <p className='text-base text-[#cfcece] font-semibold tracking-widest mt-2'>admin@saffa.co.za</p>
       </div>
