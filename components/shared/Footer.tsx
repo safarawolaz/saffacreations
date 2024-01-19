@@ -7,7 +7,7 @@ const Footer = () => {
     <section className='min-h-[50vh] bg-[#1a1a1a] w-full py-20 lg:py-32 px-4 lg:px-10 grid grid-cols-l sm:grid-cols-2 lg:grid-cols-4 gap-10'>
       <div className="">
         <Link href='/' className='text-[#cfcece] font-medium text-3xl tracking-wider'><span className='text-[#c59402]'>Saffa</span> Creations</Link>
-        <p className='text-muted-foreground text-base leading-[1.7] mt-6'>We believe in the transformative power of design and technology, and we're passionate about translating that belief into results for our clients.</p>
+        <p className='text-muted-foreground text-base leading-[1.7] mt-6'>We believe in the transformative power of design and technology, and we are passionate about translating that belief into results for our clients.</p>
         <div className="mt-6 py-6 flex items-center gap-3 border-t border-[#2e2e2e]">
           <div className="w-12 h-12 bg-[#232323] flex items-center justify-center rounded-full">
             <FacebookIcon className='w-6 h-6 text-muted-foreground' />
