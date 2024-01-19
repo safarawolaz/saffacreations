@@ -3,8 +3,8 @@ import { PuffLoader } from 'react-spinners'
 
 const Spinner = () => {
   return (
-    <div>
-        <PuffLoader color="#36d7b7" /> 
+    <div  className='flex items-center justify-center h-screen bg-[#111111]'>
+        <PuffLoader color="#c59402" /> 
     </div>
   )
 }
