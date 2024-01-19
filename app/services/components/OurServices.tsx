@@ -104,7 +104,7 @@ const OurServices = () => {
                         UI/UX Design
                     </div>
                     <div className="text-base text-muted-foreground leading-[1.9] mt-4">
-                    Intuitive and visually appealing user interfaces (UI) coupled with an outstanding user experience (UX). Our UI/UX designers create designs that look great, enhancing user satisfaction and engagement.
+                    Intuitive and visually appealing user interfaces UI coupled with an outstanding user experience UX. Our UI/UX designers create designs that look great, enhancing user satisfaction and engagement.
                     </div>
                     <div className="">
                         <Button className='text-muted-foreground text-lg flex items-center justify-between mt-8 px-3 hover:bg-[#161616] hover:text-muted-foreground rounded-full' size='lg' variant='ghost'>
@@ -130,7 +130,7 @@ const OurServices = () => {
                         Copywriting
                     </div>
                     <div className="text-base text-muted-foreground leading-[1.9] mt-4">
-                    Our expert copywriters craft compelling content that speaks directly to your target audience. Whether it's website copy, blog posts, or marketing collateral to convey your brand's unique story.
+                    Our expert copywriters craft compelling content that speaks directly to your target audience. Whether it is website copy, blog posts, or marketing collateral to convey your unique brand story.
                     </div>
                     <div className="">
                         <Button className='text-muted-foreground text-lg flex items-center justify-between mt-8 px-3 hover:bg-[#161616] hover:text-muted-foreground rounded-full' size='lg' variant='ghost'>
@@ -156,7 +156,7 @@ const OurServices = () => {
                         SEO Marketing
                     </div>
                     <div className="text-base text-muted-foreground leading-[1.9] mt-4">
-                    Elevate your website's ranking on search engines with our comprehensive SEO services. We employ white-hat techniques and industry best practices to optimize your site, ensuring it ranks higher in search results.
+                    Elevate your websites ranking on search engines with our comprehensive SEO services. We employ white-hat techniques and industry best practices to optimize your site, ensuring it ranks higher in search results.
                     </div>
                     <div className="">
                         <Button className='text-muted-foreground text-lg flex items-center justify-between mt-8 px-3 hover:bg-[#161616] hover:text-muted-foreground rounded-full' size='lg' variant='ghost'>
