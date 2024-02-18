@@ -43,7 +43,7 @@ const roll = [
 
 const Ribbon = () => {
   return (
-    <section className='px-4 lg:px-10 bg-[#000000] whitespace-nowrap overflow-hidden '>
+    <section className='px-4 lg:px-10  whitespace-nowrap overflow-hidden bg-black'>
       <div className="animate-roll py-6 w-full flex gap-8 items-center ">
           {
             roll.map(text => <div key={text.id}>

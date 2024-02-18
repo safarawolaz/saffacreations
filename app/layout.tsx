@@ -14,6 +14,12 @@ const syne = Syne({subsets: ['latin'], variable: '--font-syne'})
 export const metadata: Metadata = {
   title: 'Saffa Creations',
   description: 'web design, web development, seo, graphic design',
+  icons: [
+    {
+      url: "/paw-logo.png",
+      href: "paw-logo.png"
+    }
+  ]
 }
 
 
